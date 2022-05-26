@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://shannon-slavin.github.io/sitemap.xml
